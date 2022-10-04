@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "hangman.java": [
+      {
+        "id": "8daee4df-2dc5-4ee6-84c7-1470dd1aae03",
+        "line": 20,
+        "version": 12,
+        "index": 944
+      }
+    ]
+  }
 }
